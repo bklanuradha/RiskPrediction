@@ -1,0 +1,172 @@
+Timestamp,Gender,Age,Educational Qualifications,"Does family have a history of substance abuse, especially from a close relative like a grandparent, parent, or sibling?",Do you live with someone who has a habit of using drugs?,Do you have friends that use drugs?,Did you grow up or are currently in an area of poverty or low socioeconomic status?,"Growing up, were parents rarely around, and did they not provide much supervision, discipline, or guidance?","Growing up (or currently), did you have drugs around you that you could easily access?","Do you have a history of, or do you currently struggle with, a mental illness, such as personality disorder, Anxiety, depression, or schizophrenia?","Are you currently experiencing a significant transition in life, such as divorce, loss of a loved one, loss of a job, or changing schools?","Do you have a history of childhood trauma, such as physical, mental, or sexual abuse?",Did you start using drugs or drinking alcohol (even if it was only every once in a while) before you were a teenager?,Score (0/10)
+10/15/2022 6:31:03,Male,18-30,A/L,Yes,Yes,No,Yes,No,No,No,Yes,No,No,3.00
+10/15/2022 6:40:05,Male,18-30,A/L,Yes,No,Yes,Yes,No,No,Yes,Yes,No,No,5.00
+10/15/2022 6:47:31,Male,less than 18,O/L,Yes,No,Yes,No,No,No,Yes,No,No,Yes,4.00
+10/15/2022 6:48:10,Male,18-30,A/L,No,No,Yes,No,No,No,Yes,Yes,Yes,Yes,5.00
+10/15/2022 6:48:30,Female,18-30,A/L,Yes,Yes,No,Yes,No,No,Yes,Yes,No,No,5.00
+10/15/2022 6:48:43,Male,18-30,A/L,No,No,Yes,Yes,No,No,Yes,No,Yes,No,4.00
+10/15/2022 6:49:09,Male,more than 30,Undergraduate,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,No,6.00
+10/15/2022 6:49:38,Male,more than 30,O/L,Yes,No,No,Yes,Yes,No,No,Yes,Yes,No,5.00
+10/15/2022 6:49:48,Female,18-30,Undergraduate,Yes,No,Yes,Yes,No,Yes,Yes,Yes,No,No,6.00
+10/15/2022 6:50:07,Female,18-30,A/L,No,No,No,Yes,Yes,No,No,Yes,Yes,No,4.00
+10/15/2022 6:50:34,Female,less than 18,O/L,No,No,Yes,Yes,No,No,Yes,Yes,Yes,No,5.00
+10/15/2022 6:50:59,Female,18-30,Undergraduate,Yes,Yes,No,Yes,No,No,No,Yes,No,No,4.00
+10/15/2022 6:51:00,Female,18-30,Undergraduate,No,Yes,Yes,Yes,Yes,No,No,No,No,Yes,5.00
+10/15/2022 6:51:29,Female,less than 18,O/L,No,No,Yes,Yes,Yes,No,Yes,No,Yes,Yes,6.00
+10/15/2022 6:51:38,Male,18-30,O/L,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes,8.00
+10/15/2022 6:51:54,Female,more than 30,A/L,No,No,Yes,Yes,Yes,No,No,No,Yes,No,4.00
+10/15/2022 6:52:20,Male,18-30,Primary education,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,No,6.00
+10/15/2022 6:52:30,Male,18-30,A/L,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes,8.00
+10/15/2022 6:56:21,Male,18-30,Postgraduate,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,No,Yes,8.00
+10/15/2022 6:57:14,Male,18-30,A/L,Yes,No,Yes,Yes,Yes,Yes,No,Yes,No,No,6.00
+10/15/2022 6:57:49,Male,18-30,A/L,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,Yes,7.00
+10/15/2022 6:58:16,Male,18-30,A/L,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes,8.00
+10/15/2022 6:58:56,Male,more than 30,Postgraduate,Yes,Yes,No,No,Yes,Yes,Yes,No,Yes,Yes,7.00
+10/15/2022 6:59:32,Male,18-30,Undergraduate,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,9.00
+10/15/2022 7:00:04,Male,18-30,O/L,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,10.00
+10/15/2022 7:00:29,Male,18-30,Primary education,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,9.00
+10/15/2022 7:00:54,Male,18-30,Undergraduate,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,No,No,7.00
+10/15/2022 7:01:50,Male,18-30,Primary education,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,10.00
+10/15/2022 7:02:18,Male,18-30,Primary education,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,9.00
+10/15/2022 7:02:50,Male,18-30,Primary education,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,Yes,8.00
+10/15/2022 7:03:35,Male,18-30,Primary education,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,10.00
+10/15/2022 7:04:02,Male,18-30,O/L,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,9.00
+10/15/2022 7:04:24,Male,18-30,Primary education,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,10.00
+10/15/2022 7:04:46,Male,18-30,Primary education,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,10.00
+10/15/2022 7:05:14,Male,more than 30,O/L,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,9.00
+10/15/2022 7:05:43,Male,18-30,O/L,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,9.00
+10/15/2022 7:06:11,Male,18-30,A/L,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,9.00
+10/15/2022 7:06:44,Male,18-30,O/L,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,10.00
+10/15/2022 7:07:11,Male,18-30,Primary education,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,9.00
+10/16/2022 9:54:54,Male,18-30,Postgraduate,No,Yes,Yes,Yes,No,Yes,No,No,No,No,4.00
+10/16/2022 9:55:52,Male,18-30,O/L,Yes,Yes,No,Yes,Yes,No,Yes,Yes,No,Yes,7.00
+10/16/2022 10:00:14,Male,18-30,A/L,Yes,Yes,Yes,No,Yes,No,Yes,Yes,No,Yes,7.00
+10/16/2022 10:01:19,Male,less than 18,O/L,Yes,No,No,No,Yes,Yes,Yes,No,Yes,Yes,6.00
+10/16/2022 10:02:06,Male,18-30,A/L,No,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,7.00
+10/16/2022 10:03:04,Male,18-30,Undergraduate,No,No,Yes,Yes,Yes,Yes,Yes,Yes,No,No,6.00
+10/16/2022 10:03:55,Male,18-30,O/L,Yes,No,No,Yes,Yes,No,Yes,Yes,Yes,Yes,7.00
+10/16/2022 10:04:38,Male,less than 18,O/L,Yes,No,No,No,No,Yes,Yes,No,Yes,Yes,5.00
+10/16/2022 10:05:15,Male,more than 30,A/L,No,No,Yes,No,Yes,Yes,Yes,Yes,No,Yes,6.00
+10/16/2022 10:05:51,Male,18-30,A/L,Yes,Yes,Yes,No,Yes,Yes,Yes,No,Yes,No,7.00
+10/16/2022 10:06:44,Male,18-30,Undergraduate,No,No,Yes,No,No,Yes,Yes,Yes,No,Yes,5.00
+10/16/2022 10:07:20,Male,less than 18,O/L,No,No,Yes,No,No,Yes,No,No,No,Yes,3.00
+10/16/2022 10:07:58,Male,18-30,O/L,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes,8.00
+10/16/2022 10:08:28,Male,18-30,Undergraduate,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,9.00
+10/16/2022 10:09:08,Male,more than 30,A/L,No,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,7.00
+10/16/2022 10:11:10,Male,18-30,Undergraduate,No,No,Yes,No,Yes,Yes,Yes,Yes,No,Yes,6.00
+10/16/2022 10:11:44,Male,18-30,O/L,Yes,Yes,No,No,No,Yes,Yes,Yes,No,Yes,6.00
+10/16/2022 10:12:23,Male,more than 30,O/L,No,No,No,Yes,Yes,Yes,Yes,Yes,No,No,5.00
+10/16/2022 10:13:05,Male,18-30,A/L,Yes,No,No,Yes,Yes,Yes,No,Yes,Yes,Yes,7.00
+10/16/2022 10:13:36,Male,more than 30,A/L,Yes,No,Yes,No,Yes,No,Yes,No,No,Yes,5.00
+10/16/2022 10:15:09,Male,18-30,A/L,No,No,No,Yes,No,Yes,No,Yes,No,Yes,4.00
+10/16/2022 10:15:39,Male,18-30,Primary education,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,9.00
+10/16/2022 10:16:09,Male,less than 18,O/L,No,Yes,Yes,No,Yes,Yes,Yes,No,No,Yes,6.00
+10/16/2022 10:16:38,Male,more than 30,Primary education,Yes,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,8.00
+10/16/2022 10:17:30,Male,less than 18,O/L,No,Yes,Yes,No,Yes,Yes,Yes,No,No,Yes,6.00
+10/16/2022 11:29:20,Male,less than 18,A/L,No,No,Yes,No,No,Yes,No,Yes,No,Yes,4.00
+10/16/2022 11:32:07,Male,18-30,A/L,No,Yes,Yes,No,No,Yes,No,No,No,No,3.00
+10/16/2022 11:33:40,Male,more than 30,O/L,No,Yes,Yes,Yes,No,No,Yes,Yes,No,No,5.00
+10/16/2022 12:20:04,Male,18-30,O/L,No,Yes,Yes,Yes,No,Yes,Yes,Yes,No,Yes,7.00
+10/16/2022 12:22:05,Male,less than 18,O/L,Yes,Yes,Yes,Yes,No,No,Yes,Yes,No,Yes,7.00
+10/16/2022 12:23:15,Male,18-30,A/L,Yes,No,Yes,No,No,No,Yes,No,No,Yes,4.00
+10/16/2022 12:24:27,Female,18-30,Undergraduate,Yes,No,No,Yes,No,No,Yes,Yes,No,No,4.00
+10/16/2022 12:25:22,Female,18-30,Undergraduate,No,No,No,Yes,No,Yes,Yes,Yes,No,No,4.00
+10/16/2022 12:28:05,Female,18-30,A/L,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,No,6.00
+10/16/2022 12:29:33,Male,18-30,Primary education,Yes,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,8.00
+10/16/2022 12:35:39,Male,18-30,A/L,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,No,No,7.00
+10/16/2022 12:36:34,Female,18-30,Undergraduate,Yes,Yes,No,No,No,Yes,Yes,Yes,No,No,5.00
+10/16/2022 12:37:06,Male,18-30,O/L,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,10.00
+10/16/2022 12:38:01,Male,more than 30,O/L,Yes,No,Yes,No,Yes,Yes,No,Yes,No,Yes,6.00
+10/16/2022 13:05:19,Male,more than 30,O/L,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,9.00
+10/16/2022 13:06:02,Female,18-30,Undergraduate,Yes,No,No,No,Yes,No,Yes,Yes,No,No,4.00
+10/16/2022 13:06:44,Male,18-30,Primary education,No,Yes,Yes,Yes,No,Yes,Yes,Yes,No,Yes,7.00
+10/16/2022 13:07:15,Male,less than 18,O/L,No,No,Yes,Yes,No,Yes,Yes,Yes,No,Yes,6.00
+10/16/2022 13:07:48,Male,more than 30,Primary education,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,10.00
+10/16/2022 13:08:23,Male,18-30,Postgraduate,No,No,Yes,No,No,Yes,Yes,Yes,No,Yes,5.00
+10/16/2022 13:09:01,Male,18-30,Undergraduate,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,8.00
+10/16/2022 13:09:42,Female,18-30,A/L,Yes,No,No,Yes,No,Yes,Yes,No,No,No,4.00
+10/16/2022 13:12:01,Male,18-30,O/L,No,No,Yes,Yes,Yes,Yes,No,Yes,No,Yes,6.00
+10/16/2022 13:12:41,Male,18-30,Undergraduate,Yes,No,Yes,Yes,No,Yes,No,Yes,No,No,5.00
+10/16/2022 13:13:24,Male,18-30,Undergraduate,Yes,Yes,Yes,Yes,No,Yes,No,Yes,No,No,6.00
+10/16/2022 13:14:13,Male,18-30,Undergraduate,No,No,Yes,Yes,No,Yes,No,Yes,No,No,4.00
+10/16/2022 13:14:50,Male,18-30,Undergraduate,No,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,8.00
+10/16/2022 13:15:32,Female,18-30,Undergraduate,No,No,No,No,Yes,Yes,Yes,Yes,No,No,4.00
+10/16/2022 13:18:17,Female,18-30,A/L,No,No,Yes,No,No,No,Yes,Yes,No,No,3.00
+10/16/2022 13:18:52,Male,18-30,A/L,No,Yes,Yes,Yes,No,No,Yes,Yes,No,Yes,6.00
+10/16/2022 13:19:19,Male,18-30,Primary education,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,9.00
+10/16/2022 13:20:25,Male,more than 30,O/L,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Yes,8.00
+10/16/2022 13:21:03,Male,less than 18,O/L,Yes,No,Yes,No,No,Yes,Yes,Yes,No,Yes,6.00
+10/16/2022 13:21:35,Male,18-30,Undergraduate,No,Yes,Yes,No,No,Yes,Yes,Yes,No,Yes,6.00
+10/16/2022 13:22:21,Male,18-30,Postgraduate,Yes,No,Yes,No,No,Yes,No,Yes,No,No,4.00
+10/16/2022 13:24:04,Male,18-30,Primary education,No,Yes,Yes,Yes,Yes,No,No,Yes,No,Yes,6.00
+10/16/2022 13:24:44,Male,less than 18,O/L,No,No,Yes,Yes,Yes,No,No,Yes,No,Yes,5.00
+10/16/2022 13:25:24,Male,18-30,Undergraduate,No,Yes,Yes,Yes,No,No,No,Yes,No,Yes,5.00
+10/16/2022 14:45:13,Male,less than 18,O/L,No,No,Yes,Yes,Yes,Yes,No,No,No,Yes,5.00
+10/16/2022 14:46:52,Male,18-30,Postgraduate,Yes,No,Yes,No,Yes,Yes,Yes,Yes,No,No,6.00
+10/16/2022 14:48:03,Male,18-30,Undergraduate,No,No,Yes,Yes,No,Yes,No,No,No,No,3.00
+10/16/2022 14:50:13,Male,18-30,A/L,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,No,7.00
+10/16/2022 14:51:46,Male,18-30,Primary education,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,Yes,7.00
+10/16/2022 15:05:36,Male,18-30,O/L,Yes,Yes,Yes,No,No,No,No,Yes,Yes,Yes,6.00
+10/16/2022 15:06:08,Male,less than 18,O/L,Yes,No,Yes,No,No,No,No,Yes,No,Yes,4.00
+10/16/2022 15:06:34,Male,18-30,A/L,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,10.00
+10/16/2022 15:07:09,Female,18-30,Undergraduate,No,No,No,No,No,No,Yes,Yes,No,No,2.00
+10/16/2022 15:07:42,Female,18-30,Undergraduate,No,No,Yes,No,Yes,No,Yes,Yes,No,No,4.00
+10/16/2022 15:08:39,Female,18-30,A/L,Yes,No,No,Yes,No,No,No,Yes,No,No,3.00
+10/16/2022 15:09:22,Male,less than 18,O/L,Yes,No,No,Yes,No,Yes,No,No,Yes,Yes,5.00
+10/16/2022 15:10:46,Male,18-30,Primary education,Yes,No,Yes,Yes,Yes,No,No,Yes,Yes,Yes,7.00
+10/16/2022 15:13:11,Female,18-30,Postgraduate,No,No,No,Yes,No,No,No,Yes,No,No,2.00
+10/16/2022 15:28:43,Male,18-30,A/L,No,No,Yes,No,No,No,Yes,Yes,No,No,3.00
+10/16/2022 15:29:29,Female,18-30,Undergraduate,Yes,No,No,No,No,No,Yes,Yes,No,No,3.00
+10/16/2022 15:30:10,Female,more than 30,Postgraduate,Yes,No,Yes,No,No,Yes,Yes,Yes,No,No,5.00
+10/16/2022 15:30:50,Male,18-30,O/L,Yes,No,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes,8.00
+10/16/2022 15:32:04,Male,18-30,A/L,Yes,Yes,Yes,Yes,Yes,No,No,Yes,No,No,6.00
+10/16/2022 15:54:36,Male,18-30,A/L,Yes,No,Yes,No,Yes,Yes,No,No,No,Yes,5.00
+10/16/2022 15:56:23,Female,18-30,Undergraduate,No,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,8.00
+10/16/2022 16:02:18,Male,18-30,Postgraduate,No,No,Yes,No,No,Yes,Yes,Yes,No,No,4.00
+10/16/2022 16:02:57,Male,18-30,Undergraduate,No,No,Yes,No,Yes,No,Yes,Yes,Yes,Yes,6.00
+10/16/2022 16:03:26,Male,18-30,A/L,Yes,No,Yes,No,No,No,No,Yes,No,No,3.00
+10/16/2022 16:03:56,Female,18-30,Undergraduate,Yes,No,No,No,No,No,Yes,Yes,No,No,3.00
+10/16/2022 16:04:31,Male,more than 30,Postgraduate,No,No,Yes,No,No,Yes,Yes,Yes,No,Yes,5.00
+10/16/2022 16:04:58,Male,18-30,Primary education,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,10.00
+10/16/2022 16:05:36,Male,18-30,O/L,No,No,No,Yes,Yes,No,No,Yes,Yes,Yes,5.00
+10/16/2022 16:06:22,Female,18-30,Undergraduate,No,No,No,No,No,No,Yes,Yes,No,No,2.00
+10/16/2022 16:06:54,Female,18-30,A/L,Yes,No,No,No,No,No,No,Yes,No,No,2.00
+10/16/2022 16:08:13,Male,18-30,Primary education,No,No,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,7.00
+10/16/2022 16:08:55,Male,more than 30,Primary education,Yes,No,Yes,Yes,No,Yes,Yes,Yes,No,No,6.00
+10/16/2022 16:09:36,Male,18-30,Primary education,Yes,No,Yes,No,Yes,Yes,No,Yes,No,Yes,6.00
+10/16/2022 16:10:12,Male,18-30,Undergraduate,Yes,No,Yes,No,No,Yes,Yes,Yes,No,Yes,6.00
+10/16/2022 16:10:51,Male,18-30,O/L,Yes,No,Yes,Yes,No,No,No,Yes,No,No,4.00
+10/16/2022 16:11:32,Male,18-30,Undergraduate,No,No,Yes,No,No,No,No,No,No,No,1.00
+10/16/2022 16:12:42,Male,less than 18,O/L,Yes,No,Yes,Yes,No,No,No,No,No,Yes,4.00
+10/16/2022 17:00:14,Male,18-30,O/L,No,No,Yes,Yes,No,Yes,No,Yes,No,No,4.00
+10/16/2022 17:00:55,Male,less than 18,O/L,No,No,No,Yes,No,No,Yes,Yes,Yes,Yes,5.00
+10/16/2022 17:01:25,Male,18-30,Postgraduate,No,No,Yes,No,No,No,No,Yes,No,Yes,3.00
+10/16/2022 17:01:58,Male,18-30,Primary education,Yes,No,Yes,Yes,No,No,No,Yes,No,Yes,5.00
+10/16/2022 17:02:31,Male,18-30,O/L,Yes,No,No,Yes,Yes,Yes,No,Yes,No,Yes,6.00
+10/16/2022 17:04:52,Male,more than 30,A/L,No,No,Yes,No,No,Yes,No,No,No,Yes,3.00
+10/16/2022 17:05:32,Male,18-30,Undergraduate,No,No,Yes,No,No,Yes,No,No,No,Yes,3.00
+10/16/2022 17:06:23,Male,18-30,Undergraduate,No,No,No,No,No,No,No,Yes,No,No,1.00
+10/16/2022 17:11:06,Male,18-30,Undergraduate,No,Yes,Yes,Yes,Yes,Yes,No,No,No,Yes,6.00
+10/16/2022 17:12:01,Male,more than 30,O/L,No,Yes,Yes,Yes,Yes,Yes,No,No,Yes,Yes,7.00
+10/16/2022 17:13:00,Male,18-30,Undergraduate,Yes,No,No,No,Yes,No,No,No,No,Yes,3.00
+10/16/2022 17:51:43,Female,18-30,Undergraduate,No,No,No,Yes,No,No,Yes,Yes,No,No,3.00
+10/16/2022 17:52:21,Male,more than 30,Undergraduate,Yes,No,Yes,Yes,No,Yes,Yes,Yes,No,No,6.00
+10/16/2022 17:52:52,Male,more than 30,O/L,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Yes,Yes,8.00
+10/16/2022 17:53:33,Male,less than 18,O/L,Yes,No,No,No,No,Yes,Yes,No,No,Yes,4.00
+10/16/2022 17:54:05,Male,18-30,Undergraduate,Yes,No,Yes,Yes,Yes,No,No,Yes,No,No,5.00
+10/16/2022 17:54:52,Male,more than 30,A/L,Yes,Yes,No,Yes,No,Yes,No,Yes,No,Yes,6.00
+10/16/2022 17:55:30,Male,18-30,Undergraduate,No,No,Yes,No,No,Yes,No,No,No,Yes,3.00
+10/16/2022 17:56:01,Male,18-30,Undergraduate,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,No,Yes,8.00
+10/16/2022 17:56:36,Male,18-30,Undergraduate,Yes,No,No,Yes,No,Yes,No,No,No,No,3.00
+10/16/2022 17:57:05,Female,18-30,Undergraduate,Yes,No,No,No,No,No,No,Yes,No,No,2.00
+10/16/2022 17:57:54,Male,18-30,Undergraduate,No,No,Yes,No,No,Yes,Yes,Yes,No,No,4.00
+10/17/2022 3:26:19,Male,less than 18,O/L,No,No,No,No,No,No,Yes,No,Yes,No,2.00
+10/17/2022 3:27:22,Male,18-30,Undergraduate,Yes,No,Yes,No,No,No,No,Yes,No,No,3.00
+10/17/2022 3:28:28,Male,18-30,Undergraduate,Yes,No,Yes,No,Yes,Yes,No,No,No,No,4.00
+10/17/2022 3:30:00,Female,more than 30,O/L,Yes,Yes,No,No,No,No,No,Yes,No,Yes,4.00
+10/17/2022 3:30:54,Male,18-30,O/L,No,No,Yes,No,Yes,Yes,No,Yes,No,Yes,5.00
+10/17/2022 3:31:25,Male,18-30,O/L,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,9.00
+10/17/2022 3:32:29,Male,18-30,A/L,No,No,Yes,No,Yes,No,Yes,No,Yes,Yes,5.00
+10/17/2022 3:34:41,Male,18-30,A/L,Yes,Yes,Yes,No,Yes,Yes,No,No,No,Yes,6.00
+10/17/2022 3:35:18,Male,18-30,A/L,Yes,No,No,No,Yes,No,No,Yes,No,No,3.00
+10/17/2022 3:36:08,Male,18-30,Undergraduate,No,No,Yes,Yes,Yes,Yes,No,Yes,No,No,5.00

@@ -1,0 +1,172 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="/static/style.css">
+    <title>Predictor</title>
+</head>
+<body>
+    <div class="wrapper">
+        <div class="title">
+            Drug Addiction Risk Predictor
+        </div>
+
+        <div class="border"></div>
+
+        <form action="/" method="POST">
+            <div class="form">
+            <div class="inputfield">
+                <label for="gender">Gender</label>
+                <div class = "custom_select">
+                    <select name="gender" id="gender" required>
+                        <option value="" selected hidden>Select</option>
+                        <option value="female">Female</option>
+                        <option value="male">Male</option>
+                    </select>
+                </div>
+            </div>
+            <div class="inputfield">
+                <label for="age">Age</label>
+                <div class = "custom_select">
+                    <select name="age" id="age" required>
+                        <option value="" selected hidden>Select</option>
+                        <option value="18-30">18-30</option>
+                        <option value="lthan18">Less than 18</option>
+                        <option value="mthan30">More than 30</option>
+                    </select>
+                </div>
+            </div>
+            <div class="inputfield">
+                <label for="equlify">Educational Qualifications</label>
+                <div class = "custom_select">
+                    <select name="equlify" id="equlify" required>
+                        <option value="" selected hidden>Select</option>
+                        <option value="a/l">A/L</option>
+                        <option value="o/l">O/L</option>
+                        <option value="priedu">Primary education</option>
+                        <option value="postgraduate">Postgraduate</option>
+                        <option value="undergraduate">Undergraduate</option>
+                    </select>
+                </div>
+            </div>
+            <div class="inputfield">
+                <label for="q1">Does family have a history of substance abuse, especially from a close relative like a grandparent, parent, or sibling?</label>
+                <div class = "custom_select">
+                    <select name="q1" id="q1" required>
+                        <option value="" selected hidden>Select</option>
+                        <option value="no">No</option>
+                        <option value="yes">Yes</option>
+                    </select>
+                </div>
+            </div>
+            <div class="inputfield">
+                <label for="q2">Do you live with someone who has a habit of using drugs?</label>
+                <div class = "custom_select">
+                    <select name="q2" id="q2" required>
+                        <option value="" selected hidden>Select</option>
+                        <option value="no">No</option>
+                        <option value="yes">Yes</option>
+                    </select>
+                </div>
+            </div>
+            <div class="inputfield">
+                <label for="q3">Do you have friends that use drugs?</label>
+                <div class = "custom_select">
+                    <select name="q3" id="q3" required>
+                        <option value="" selected hidden>Select</option>
+                        <option value="no">No</option>
+                        <option value="yes">Yes</option>
+                    </select>
+                </div>
+            </div>
+            <div class="inputfield">
+                <label for="q4">Did you grow up or are currently in an area of poverty or low socioeconomic status?</label>
+                <div class = "custom_select">
+                    <select name="q4" id="q4" required>
+                        <option value="" selected hidden>Select</option>
+                        <option value="no">No</option>
+                        <option value="yes">Yes</option>
+                    </select>
+                </div>
+            </div>
+            <div class="inputfield">
+                <label for="q5">Growing up, were parents rarely around, and did they not provide much supervision, discipline, or guidance?</label>
+                <div class = "custom_select">
+                    <select name="q5" id="q5" required>
+                        <option value="" selected hidden>Select</option>
+                        <option value="no">No</option>
+                        <option value="yes">Yes</option>
+                    </select>
+                </div>
+            </div>
+            <div class="inputfield">
+                <label for="q6">Growing up (or currently), did you have drugs around you that you could easily access?</label>
+                <div class = "custom_select">
+                    <select name="q6" id="q6" required>
+                        <option value="" selected hidden>Select</option>
+                        <option value="no">No</option>
+                        <option value="yes">Yes</option>
+                    </select>
+                </div>
+            </div>
+            <div class="inputfield">
+                <label for="q7">Do you have a history of, or do you currently struggle with, a mental illness, such as personality disorder, Anxiety, depression, or schizophrenia?</label>
+                <div class = "custom_select">
+                    <select name="q7" id="q7" required>
+                        <option value="" selected hidden>Select</option>
+                        <option value="no">No</option>
+                        <option value="yes">Yes</option>
+                    </select>
+                </div>
+            </div>
+            <div class="inputfield">
+                <label for="q8">Are you currently experiencing a significant transition in life, such as divorce, loss of a loved one, loss of a job, or changing schools?</label>
+                <div class = "custom_select">
+                    <select name="q8" id="q8" required>
+                        <option value="" selected hidden>Select</option>
+                        <option value="no">No</option>
+                        <option value="yes">Yes</option>
+                    </select>
+                </div>
+            </div>
+            <div class="inputfield">
+                <label for="q9">Do you have a history of childhood trauma, such as physical, mental, or sexual abuse?</label>
+                <div class = "custom_select">
+                    <select name="q9" id="q9" required>
+                        <option value="" selected hidden>Select</option>
+                        <option value="no">No</option>
+                        <option value="yes">Yes</option>
+                    </select>
+                </div>
+            </div>
+            <div class="inputfield">
+                <label for="q10">Did you start using drugs or drinking alcohol (even if it was only every once in a while) before you were a teenager?</label>
+                <div class = "custom_select">
+                    <select name="q10" id="q10" required>
+                        <option value="" selected hidden>Select</option>
+                        <option value="no">No</option>
+                        <option value="yes">Yes</option>
+                    </select>
+                </div>
+            </div>
+            <div class="inputfield">
+                    <input class="btn" type="submit" value="Precict Risk">
+            </div>
+        </div>
+        </form>
+        <div class="result">
+            {% if pred_value != 0 %}
+            <p>Estimated Risk : Score {{pred_value}} %</p>
+            {% endif %}
+        </div>
+        <br>
+        <div class="advice">
+            <p>
+                Even if a person has a risk factor for drug use, this doesn’t mean they’ll develop an addiction to drugs. The opposite is also true. This will help reduce a young person’s risk for substance abuse. 
+            </p>
+        </div>
+    </div>
+</body>
+</html>

@@ -1,0 +1,163 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Roboto';
+    
+}
+body{
+    position: relative;
+    display: flex;
+    background: rgb(55,3,56);
+    background: linear-gradient(90deg, rgba(55,3,56,1) 0%, rgba(34,94,121,1) 100%);
+    padding: 0 10px;
+    justify-content: center;
+    background-position: top center;
+    background-size: cover;
+}
+
+.wrapper{
+    max-width: 60em;
+    width: 100%;
+    background: #ecf0f1;
+    margin: 20px auto;
+    box-shadow: 2px 2px 4px rgba(0,0,0,0.125);
+    padding: 30px;
+    position: relative;
+    transition: all 0.5s;
+    /* Animation */
+    animation: anim 2s ease-in forwards;
+}
+
+/* Loading Animation */
+@keyframes anim{
+    from{
+        opacity: 0.6;
+    }
+    to{
+        opacity: 1;
+    }
+}
+
+.inputfield:hover{
+    transform: scale(1.01);
+}
+
+.title:hover{
+    transform: scale(1.05);
+}
+ 
+.wrapper .title{
+    font-size: 28px;
+    font-weight: bold;
+    margin-bottom: 5px;
+    color: #230872;
+    text-transform: uppercase;
+    text-align: center;
+    letter-spacing: 0.1rem;
+}
+
+.border{
+    width: 190px;
+    height: 6px;
+    background: #3c9ae7;
+    margin: 20px auto;
+}
+  
+.wrapper .form{
+    width: 100%;
+    overflow: hidden;
+}
+  
+.wrapper .form .inputfield{
+    display: flex;
+    width: 100%;
+    align-items: center;
+    box-sizing: border-box;
+    margin: 12px 0;
+    border: none;
+    padding: 8px 8px;
+    outline: none;
+    color: #2c3e50;
+    transition: all 0.5s;
+    background: rgb(137,228,245);
+    background: linear-gradient(90deg, rgba(137,228,245,1) 0%, rgba(210,202,211,1) 100%);
+}
+
+.wrapper .form .inputfield label{
+    width: 150em;
+    color: black;
+    margin-right: 10px;
+    font-size: 18px;
+    font-family: sans-serif;
+    
+}
+
+.wrapper .form .inputfield .input{
+    width: 100%;
+    outline: none;
+    border: 1px solid #d5dbd9;
+    font-size: 17px;
+    padding: 8px 10px;
+    border-radius: 3px;
+}
+
+.wrapper .form .inputfield .custom_select{
+    position: relative;
+    width: 100%;
+    height: 37px;
+}
+  
+.wrapper .form .inputfield .custom_select:before{
+    position: absolute;
+    top: 12px;
+    right: 10px;
+}
+  
+.wrapper .form .inputfield .custom_select select{
+    width: 100%;
+    height: 100%;
+    border: 0px;
+    padding: 8px 10px;
+    font-size: 17px;
+    border: 1px solid #e2d7d2;
+    border-radius: 3px;
+    background: rgb(152,167,189);
+    background: linear-gradient(0deg, rgb(210, 218, 230) 0%, rgba(255,255,255,1) 100%);
+}
+
+.wrapper .form .inputfield .btn{
+    padding: 8px 10px;
+    font-size: 20px; 
+    border: 3px;
+    background: rgb(9,82,197);
+    background: linear-gradient(143deg, rgba(9,82,197,1) 0%, rgba(134,72,163,1) 100%);
+    color: #fff;
+    cursor: pointer;
+    border-radius: 10px;
+    outline: none;
+    width: 100%;
+    height: 5vh;
+    outline: none;
+    cursor: pointer;
+    transition: all 0.5s;
+}
+  
+.result p{
+    text-align: center;
+    color: rgb(5, 5, 187);
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.advice p{
+    text-align: center;
+    font-size: 20px;
+    font: 'Roboto';
+    font-weight: bold;
+    font-style: inherit;
+    color: #23292f;
+}
+
